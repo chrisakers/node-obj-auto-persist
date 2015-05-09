@@ -1,0 +1,14 @@
+{
+  "name": "obj-auto-persist",
+  "version": "1.0.0",
+  "description": "Simple, automatic, file-system onject persistence for NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "persistence"
+  ],
+  "author": "Chris Akers",
+  "license": "ISC"
+}
