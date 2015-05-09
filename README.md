@@ -1,7 +1,3 @@
-AutoPersistance
-===============
+# node-obj-auto-persist
 
-Simple, automatic, file-system onject persistence for NodeJS. 
--------------------------------------------------------------
-
-
+Simple, automatic, file-system object persistence for NodeJS.
